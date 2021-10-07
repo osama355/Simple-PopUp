@@ -1,0 +1,15 @@
+.pop-button{
+    height: 3rem;
+    width: 150px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-radius: 0.275rem;
+    border: 1px solid #f1592a;
+    background-color: #f1592a;
+    color: #fff;
+}
+.main-div{
+    display: flex;
+    justify-content: center;  
+}
